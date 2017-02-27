@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="button_true">True</string>
+    <string name="button_false">False</string>
+    <string name="question_text">Question text</string>
+    <string name="toast_correct">Correct</string>
+    <string name="toast_incorrect">Incorrect</string>
+    <string name="button_prev">Prev</string>
+    <string name="button_next">Next</string>
+    <string name="question_1" translatable="false">Question 111111</string>
+    <string name="question_2" translatable="false">Question 222222</string>
+    <string name="question_3" translatable="false">Question 333333</string>
+    <string name="question_4" translatable="false">Question 444444</string>
+    <string name="question_5" translatable="false">Question 555555</string>
+    <string name="question_6" translatable="false">Question 666666</string>
+    <string name="question_7" translatable="false">Question 777777</string>
+    <string name="question_8" translatable="false">Question 888888</string>
+    <string name="warning_text">Are you sure?</string>
+    <string name="button_show_answer">Show answer</string>
+    <string name="button_cheat">Cheat</string>
+    <string name="toast_judgment" translatable="false">Cheating is wrong!</string>
+</resources>

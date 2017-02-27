@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="button_false">Ложь</string>
+    <string name="button_true">Истина</string>
+    <string name="question_text">Текст вопроса</string>
+    <string name="toast_correct">Верно</string>
+    <string name="toast_incorrect">Неверно</string>
+    <string name="button_next">Дальше</string>
+    <string name="button_prev">Назад</string>
+    <string name="warning_text">Вы уверены?</string>
+    <string name="button_show_answer">Показать ответ</string>
+    <string name="button_cheat">Жулик!</string>
+</resources>
